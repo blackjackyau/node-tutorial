@@ -1,1 +1,7 @@
-require('./app/index')
+//require('./app/index')
+//require('./app/http')
+//require('./app/express')
+require('./app/middleware')
+//require('./sync-async/sync-readfile')
+//require('./sync-async/async-readfile')
+//require('./sync-async/promise')
